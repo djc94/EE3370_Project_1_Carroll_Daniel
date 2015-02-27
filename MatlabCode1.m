@@ -1,11 +1,13 @@
-% EExxxx Project 1
-% MATLAB code for xxxxxxxxxxxxx
-% Your Name and Last Name
-% Date
+% EE3370 Project 1
+% MATLAB code for x_t=3*cos(omega*t+angle);
+% Daniel Carroll
+% 2/26/2015
 
 
-% Could not commit MATLAB file. Error: "Invalid PROPPATCH properties"
-% Instead i am committing this file without an extension.
+% I could not commit the MATLAB file using the SVN client (SmartSVN) on my Mac. 
+% I received the error: "Invalid PROPPATCH properties"
+
+% Instead i am committing this file directly through github.com.  
 
 
 clc      % Clear screen 
